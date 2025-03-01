@@ -1,0 +1,6 @@
+@WebManga.Api_HostAddress = http://localhost:5062
+
+GET {{WebManga.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
