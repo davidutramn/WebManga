@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebManga.Infrastructure\WebManga.Infrastructure.csproj" />
+    <ProjectReference Include="..\WebManga.Application\WebManga.Application.csproj" />
   </ItemGroup>
 
 </Project>
